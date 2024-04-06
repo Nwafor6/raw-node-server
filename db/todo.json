@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Listen to musicssss",
+    "status": "done",
+    "description": "Complete math and science assignments"
+  },
+  {
+    "id": 2,
+    "title": "Buy groceries",
+    "status": "pending",
+    "description": "Milk, eggs, bread, fruits, and vegetables"
+  },
+  {
+    "id": 3,
+    "title": "Go for a run",
+    "status": "pending",
+    "description": "Run for 30 minutes in the park"
+  },
+  {
+    "id": 4,
+    "title": "Read a book",
+    "status": "pending",
+    "description": "Read the first chapter of 'The Great Gatsby'"
+  },
+  {
+    "id": 5,
+    "title": "Call mom",
+    "status": "pending",
+    "description": "Discuss weekend plans"
+  },
+  {
+    "id": 6,
+    "title": "Pay bills",
+    "status": "pending",
+    "description": "Electricity, water, and internet bills"
+  },
+  {
+    "id": 7,
+    "title": "Clean the house",
+    "status": "pending",
+    "description": "Vacuum, dust, and mop the floors"
+  },
+  {
+    "id": 8,
+    "title": "Watch a movie",
+    "status": "pending",
+    "description": "Watch 'The Shawshank Redemption'"
+  },
+  {
+    "id": 9,
+    "title": "Learn JavaScript",
+    "status": "pending",
+    "description": "Complete the first module of a JavaScript course"
+  },
+  {
+    "id": 10,
+    "title": "Listen to musicssss",
+    "status": "pending",
+    "description": "Read the first chapter of 'The Great Gatsby'"
+  }
+]
